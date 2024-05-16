@@ -56,4 +56,4 @@ Trên macOS hoặc Linux:
 ### 2.5.Chạy dự án:
 
 - Chạy lệnh sau để khởi động server phát triển: `npm run dev`
-- Mở trình duyệt và truy cập vào địa chỉ `http://localhost:5173/` để xem dự án
+- Mở trình duyệt và truy cập vào địa chỉ `http://localhost:4200/` để xem dự án
